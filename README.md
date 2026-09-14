@@ -69,3 +69,19 @@ The smart appliances are monitored via HTTP using the centralized IoT monitor da
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/Asmeer12/Home-IoT-Network-design.git
+
+   Open Cisco Packet Tracer (v8.0 or higher recommended).
+
+2. Open the file: Home-IoT-Network-Design.pkt.
+
+3. Click on PC0, Laptop0, or Smartphone0.
+
+4. Navigate to Desktop > Web Browser.
+
+5. Type http://10.1.2.2/home.html and hit Go.
+
+6. Log in with the IoT Server credentials:
+
+7. Username: HomeIOT
+
+8. Password: CISCO
