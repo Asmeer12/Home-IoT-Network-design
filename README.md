@@ -6,6 +6,7 @@ A scalable Smart Home IoT network designed and simulated in **Cisco Packet Trace
 
 ## Architecture Overview
 
+
 The network is segregated into two primary subnets interconnected by an enterprise-grade router (Cisco 2901):
 
 1. **Home Local Area Network (LAN):** 
@@ -18,6 +19,8 @@ The network is segregated into two primary subnets interconnected by an enterpri
    - Hosts the centralized **IoT Registration Server** (`10.1.2.2`) that facilitates monitoring and HTTP-based remote control (`http://10.1.2.2/home.html`).
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f6b88997-283f-490a-8e0e-6f9e99e5f5d9" />
+
 
 ## Network Topology & Addressing Scheme
 
@@ -45,6 +48,8 @@ All smart appliances communicate through the dedicated Wi-Fi network and registe
 - **Smart Lamp (`IoT4`):** Remote ambient illumination control.
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0d4265ed-fc30-408b-b6f2-f8cca496f95d" />
+
 
 ## Wireless & Security Configuration
 
@@ -54,6 +59,8 @@ All smart appliances communicate through the dedicated Wi-Fi network and registe
 - **Bandwidth:** 300 Mbps (802.11n standard)
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2077bf38-2230-4945-bccb-beefea01687f" />
+
 
 ## Web-Based IoT Monitoring & Control
 
